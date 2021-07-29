@@ -1,6 +1,6 @@
 <html>
   <heaad>
-    <title>Form</title>
+    
     </head>
   <body bgcolo="yellow">
     <h2 align="center">Feedback Form</h2>
